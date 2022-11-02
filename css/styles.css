@@ -1421,7 +1421,7 @@ footer {
   }
 
   footer {
-    background-attachment: unset;
+    background-attachment: fixed;
   }
 
   .my-team h1 {
