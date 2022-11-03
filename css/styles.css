@@ -201,7 +201,7 @@ a:visited {
   width: 24px;
   height: 24px;
   cursor: pointer;
-stroke : 2px;
+stroke : 4px black;
 }
 
 .hamburger {
